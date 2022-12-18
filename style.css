@@ -1,0 +1,28 @@
+.sobre {
+    border-style: solid;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.azure {
+    border-style: ridge;
+    background-color: azure;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.sombre {
+    border-style: double;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.hallucination {
+    border-style: dotted;
+    color: orange;
+    background-color: orchid;
+    font-weight: bold;
+    padding: 5px;
+}
